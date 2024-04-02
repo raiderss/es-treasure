@@ -5,7 +5,6 @@ FiveM Rust Style Looting System Treasures
   <h1>EYES STORE</h1>
 </div>
 
-- **_ESCKaybeden#0488_**
 - **_! Raider#0101_**
 - [**Tebex**](https://eyestore.tebex.io/)
 - [**Discord**](https://discord.gg/EkwWvFS)
