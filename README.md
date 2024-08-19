@@ -5,9 +5,9 @@ FiveM Rust Style Looting System Treasures
   <h1>EYES STORE</h1>
 </div>
 
-- **_! Raider#0101_**
-- [**Tebex**](https://eyestore.tebex.io/)
-- [**Discord**](https://discord.gg/EkwWvFS)
+[![Discord](https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord)](https://discord.gg/EkwWvFS)
+[![Tebex Store](https://img.shields.io/badge/Tebex-Store-green?style=for-the-badge&logo=shopify)](https://eyestore.tebex.io/)
+
 
 
 ![image](https://github.com/raiderss/es-treasure/assets/53000629/c17b778e-14b8-4fd4-986d-12ffd807ce2e)
